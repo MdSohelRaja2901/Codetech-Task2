@@ -11,21 +11,23 @@
 **Mentor:** SRAVANI GOUNI
 
 
+
+
 **DESCRIPTION**
 
 Creating a Python program to track and manage student grades is an engaging and educational project that combines core programming concepts with practical applications. This program aims to provide a user-friendly platform for educators, students, or administrators to input, calculate, and manage grades across various subjects and assignments. By doing so, it helps in monitoring academic performance effectively.
 
-Features and Functionalities:
+**Features and Functionalities:**
 
-User Input: The program allows users to input grades for different subjects or assignments. Users can add the name of the student, the subject, and the corresponding grade. This flexibility ensures that the program can handle a wide range of grading scenarios, from individual assignments to overall subject grades.
+**User Input:** The program allows users to input grades for different subjects or assignments. Users can add the name of the student, the subject, and the corresponding grade. This flexibility ensures that the program can handle a wide range of grading scenarios, from individual assignments to overall subject grades.
 
-Grade Calculation: One of the key functionalities of the program is its ability to calculate the average grade. By aggregating the grades entered for different subjects or assignments, the program computes the overall average, providing a clear indication of the student’s performance.
+**Grade Calculation:** One of the key functionalities of the program is its ability to calculate the average grade. By aggregating the grades entered for different subjects or assignments, the program computes the overall average, providing a clear indication of the student’s performance.
 
-Additional Information: Beyond simple grade calculation, the program also offers additional information such as letter grades and GPA. Letter grades are determined based on predefined ranges (e.g., A for 90-100, B for 80-89), providing a familiar metric for users. GPA calculation further translates these grades into a standardized format used in many educational institutions.
+**Additional Information:** Beyond simple grade calculation, the program also offers additional information such as letter grades and GPA. Letter grades are determined based on predefined ranges (e.g., A for 90-100, B for 80-89), providing a familiar metric for users. GPA calculation further translates these grades into a standardized format used in many educational institutions.
 
-User Interface: The program features an intuitive user interface that guides users through the process of entering grades, calculating averages, and viewing results. Whether implemented as a command-line tool or a graphical user interface (GUI) using libraries like Tkinter, the emphasis is on ease of use and clarity.
+**User Interface:** The program features an intuitive user interface that guides users through the process of entering grades, calculating averages, and viewing results. Whether implemented as a command-line tool or a graphical user interface (GUI) using libraries like Tkinter, the emphasis is on ease of use and clarity.
 
-Report Generation: The program can generate a report card in tabular form, displaying all subject names, individual grades, average grades, percentages, GPA, and letter grades. This comprehensive report is useful for both students and educators to assess and communicate academic performance.
+**Report Generation:** The program can generate a report card in tabular form, displaying all subject names, individual grades, average grades, percentages, GPA, and letter grades. This comprehensive report is useful for both students and educators to assess and communicate academic performance.
 
 **Educational Benefits:**
 
